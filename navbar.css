@@ -1,0 +1,19 @@
+/***
+Navbar
+***/
+nav{
+    background:#fff!important;
+    box-shadow: 1px 1px 2px #4444; 
+}
+nav .navbar-brand{
+    color: var(--main-bg-blue)!important;
+}
+.navbar-nav .nav-link{
+    font-size: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.narbar-toggler{
+    outline: none !important;
+    padding: none !important;
+}
